@@ -1,0 +1,12 @@
+{
+    "name": "hazminfirdaus/composer-project",
+    "authors": [
+        {
+            "name": "hazminfirdaus",
+            "email": "cmhazminfirdaus@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
